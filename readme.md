@@ -15,8 +15,8 @@ A RESTful API for managing user profiles with JWT authentication.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/user-profile-api.git
-   cd user-profile-api
+   git clone = https://github.com/PriyathikGit/binbag_asgmt.git
+   open the folder with vscode
    ```
 
 ## Routes
