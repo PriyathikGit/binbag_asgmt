@@ -23,13 +23,13 @@ A RESTful API for managing user profiles with JWT authentication.
 
 ### Authentication
 
-- `POST /api/user/register` - Register a new user
-- `POST /api/user/login` - Login and receive a JWT token
+- `POST http://localhost:5000/api/user/register` - Register a new user
+- `POST http://localhost:5000/api/user/login` - Login and receive a JWT token
 
 ### User Profile
 
-- `GET /api/user/:id` - Retrieve a user's profile (protected)
-- `GET /api/user/me` - Retrieve my details (protected)
-- `PATCH /api/user/:id` - Update a user's profile (protected)
+- `GET http://localhost:5000/api/user/:id` - Retrieve a user's profile (protected)
+- `GET http://localhost:5000/api/user/me` - Retrieve my details (protected)
+- `PATCH http://localhost:5000/api/user/:id` - Update a user's profile (protected)
 
 
